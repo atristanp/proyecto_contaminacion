@@ -1,0 +1,26 @@
+<LINK REL=StyleSheet HREF="cover.css" TYPE="text/css" MEDIA=screen>
+
+{% extends "layout.html" %}
+
+{% block body %}
+
+<main role="main" class="inner cover">
+            <a href="{{ url_for('well_map') }}" target="blank" style="text-decoration:none; color:white;">
+                <div id="mapa">
+                    <h1 class="cover-heading">Mapa Histórico</h1>
+                    <p class="lead">Este mapa interactivo explora el histórico de los contaminantes en las distintas estaciones.</p>
+                    <p class="lead buttonClass">Lanzar mapa</p>
+                </div>
+            </a>
+            <hr style="border-bottom: 1px solid white;">
+            <a href="{{ url_for('prediction') }}" target="blank" style="text-decoration:none; color:white;">
+               <div id="prediccion">
+                    <h1 class="cover-heading">Predicción de 24 horas</h1>
+                    <p class="lead">Resultado y visualización de la predicción del Índice de Calidad del Aire.</p>
+                    <p class="lead buttonClass">Realizar predicción</p>
+                </div>
+            </a>
+            
+</main>
+
+{% endblock %}

@@ -1,0 +1,14 @@
+version: '2'
+services:
+    web:
+        image: miflask 
+        ports:
+            - "8080:8080"
+        volumes:
+            - .:/code
+        depends_on:
+            - influxdb
+    influxdb:
+        image: influxdb:1.8
+        ports:
+            - "8086:8086"

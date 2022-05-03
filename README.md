@@ -15,17 +15,19 @@ Aplicación de visualización de los datos históricos de contaminantes de las p
 
 - app.py: código de la aplicación
 
-# Home 
+### Home 
 
 ![image](https://user-images.githubusercontent.com/48119358/166470476-f8625af8-29a0-4d9c-a4eb-fa20141ee52e.png)
 
-# Mapa interactivo/histórico de datos 
+### Mapa interactivo/histórico de datos 
 
 ![image](https://user-images.githubusercontent.com/48119358/166470754-73bb8168-8336-4f8b-aa9d-4ec4bc07819a.png)
 
-# Visualizaciones del histórico y predicción (24 horas) de la estación "Escuelas Aguirre"
+### Visualizaciones del histórico y predicción (24 horas) de la estación "Escuelas Aguirre"
 
 ![image](https://user-images.githubusercontent.com/48119358/166470865-b519c42e-c6fc-4c4d-bc57-ef80341a46bd.png)
+
+### Escala del Índice de Calidad del Aire y predicción del Índice (24 horas)
 
 ![image](https://user-images.githubusercontent.com/48119358/166471012-97a81928-6f2e-4fd5-b6cd-f7a1a4c7ed68.png)
 

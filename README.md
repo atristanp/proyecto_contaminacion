@@ -19,7 +19,7 @@ Aplicación de visualización de los datos históricos de contaminantes de las p
 
 ![image](https://user-images.githubusercontent.com/48119358/166470476-f8625af8-29a0-4d9c-a4eb-fa20141ee52e.png)
 
-### Mapa interactivo/histórico de datos 
+### Mapa interactivo / Histórico de las principales estaciones de Madrid 
 
 ![image](https://user-images.githubusercontent.com/48119358/166470754-73bb8168-8336-4f8b-aa9d-4ec4bc07819a.png)
 

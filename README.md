@@ -2,6 +2,7 @@
 
 Aplicación de visualización de los datos históricos de contaminantes de las principales estaciones de la ciudad de Madrid y desarrollo de un modelo de predicción de contaminantes e Índice de Contaminación del Aire basado en Prophet.
 
+- /Desarrollo_Proyecto: notebooks y scripts desarrollados durante el transcurso del proyecto (scrapeo, procesamiento e inserción de los datos, modelos...)
 
 - /lib : librería con df_preparation.py, llamada a BBDD, procesamiento de los datos y entrenamiento y predicción del modelo para la estación "Escuelas Aguirre".
 

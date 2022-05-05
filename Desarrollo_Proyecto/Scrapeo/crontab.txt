@@ -1,0 +1,5 @@
+# Scripts
+SHELL = /usr/bin/bash
+
+35 * * * * source /home/proyectos_contaminacion/.bashrc && cd /home/proyectos_contaminacion/daily_data && ./process.py >> process.log 2>&1
+30 * * * * export DISPLAY=:1 && source /home/proyectos_contaminacion/.bashrc && cd /home/proyectos_contaminacion/daily_data && ./download.py >> log.log 2>&1
